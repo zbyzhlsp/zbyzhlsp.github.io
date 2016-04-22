@@ -1,17 +1,17 @@
 # Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+## Docs:https://hexo.io/docs/configuration.html
+## Source:https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: 双榆树南里2区
+subtitle: 勇敢不是无所畏惧，而是心怀恐惧，却仍然向前
+description: 
+author: Iur.Gnap
+language: zh_cn
 timezone:
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+## If your site is put in a subdirectory, set url as 'http: //yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
@@ -33,7 +33,7 @@ default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
-render_drafts: false
+render_drafts: true
 post_asset_folder: false
 relative_link: false
 future: true
@@ -51,7 +51,7 @@ tag_map:
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
-## http://momentjs.com/docs/#/displaying/format/
+## http: //momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
@@ -61,11 +61,11 @@ per_page: 10
 pagination_dir: page
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
+## Plugins:https://hexo.io/plugins/
+## Themes:https://hexo.io/themes/
 theme: jacman
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: https: //hexo.io/docs/deployment.html
 deploy:
   type:
