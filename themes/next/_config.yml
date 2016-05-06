@@ -117,8 +117,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+# social:
+  # LinkLabel: #
 
 
 # Social Links Icons
@@ -159,7 +159,7 @@ toc:
 sidebar:
   # Sidebar Position, available value: left | right
   #position: left
-  position: right
+  position: left
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
